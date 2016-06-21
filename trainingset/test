@@ -1,0 +1,328 @@
+#!/usr/bin/python
+# -*- coding: utf8 -*-
+
+
+class
+//*[@id="pl_weibo_direct"]/div/div[1]/div[2]/div[2]/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[1]/div[3]/div[2]/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[2]/div/div[1]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[2]/div/div[2]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[2]/div/div[3]/div/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[3]/div[2]/div[1]/div/div/div/div/div[2]/p
+
+//*[@id="pl_weibo_direct"]/div/div[4]/div[1]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[4]/div[2]/div/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[4]/div[5]/div[2]/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[4]/div[6]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[4]/div[8]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[4]/div[13]/div/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[2]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[10]/div/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[2]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[3]/div/div[1]/dl/div/div[3]/div[1]/p
+
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[13]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[17]/div/div[1]/dl/div/div[3]/div[1]/p
+
+
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[11]/div/div[1]/dl/div/div[3]/div[1]/p
+//*[@id="pl_weibo_direct"]/div/div[1]/div/div[4]/div/div[1]/dl/div/div[3]/div[1]/p
+
+
+
+//*[@id="pl_weibo_direct"]/div/div[2]/div/a[2]
+<a href="/weibo/%25E5%25A5%25B6%25E7%25B2%2589%2520baby&amp;page=43" suda-data="key=tblog_search_weibo&amp;value=weibo_page" class="page next S_txt1 S_line1">下一页</a>
+
+
+
+
+
+
+
+
+
+
+
+
+//*[@id="pl_weibo_direct"]/div/div[2]/div/div[1]/div/div[1]/dl/div/div[3]/div[1]/p
+    <p class="comment_txt" node-type="feed_list_content" nick-name="闫菲__Lucky">
+		老公说我小聪明没有大聪明也没有就是不聪明，让我为了他的<em class="red">baby</em>聪明，天天让我喝孕妇<em class="red">奶粉</em>，说这样孩子会比我强很多，不会随我<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" title="[哼]" alt="[哼]" type="face">，可是太腥味了，太容易上火，太容易发胖了，喝成氢气球了都。
+		</p>
+
+
+//*[@id="pl_weibo_direct"]/div/div[2]/div/div[2]/div/div[1]/dl/div/div[3]/div[1]/p
+<p class="comment_txt" node-type="feed_list_content" nick-name="啪啪购官网">
+		【到货啦！！！啪啪购备货的德爱和铁罐牛栏<em class="red">奶粉</em>今天已上架<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/3e/lxhhaobang_org.gif" title="[好棒]" alt="[好棒]" type="face">】妈妈最爱的进口<em class="red">奶粉</em>品牌：德爱、Hero <em class="red">Baby</em>以及铁罐牛栏<img src="http://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" title="[心]" alt="[心]" type="face">，啪啪购今天已全新上架！多个SKU可选，保税区发货，德国爱他美奶粉2罐装低至196元包邮，铁罐荷兰牛栏奶粉2罐装250元起可采购。好货低价，想要分销，就戳<a title="http://www.papago.hk/itemgroup.html?igId=12091&amp;listtype=max&amp;igId2=&amp;startprice=&amp;endprice=&amp;newproduct=false&amp;whCode=GZJC&amp;hasQuantity=false&amp;front.esCode=E&amp;sort=&amp;key=&amp;promoteType=&amp;oflag=&amp;location=&amp;new200=&amp;timeIndex=&amp;brandId=&amp;front.postFree=&amp;front.originCtId=&amp;front.stockUp=&amp;front.brandIds=&amp;front.shipment=&amp;front.importType=" href="http://t.cn/R5c11iD" target="_blank" mt="url" action-type="feed_list_url" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_url" class="W_linkb">http://t.cn/R5c11iD</a>
+		</p>
+
+
+//*[@id="pl_weibo_direct"]/div/div[1]/div[2]/div[2]/div[1]/dl/div/div[3]/div[1]/p
+<p class="comment_txt" node-type="feed_list_content" nick-name="子骞麻麻-">
+		今晚表现一个字，棒！一点半才醒第一次，喝了90ml<em class="red">奶粉</em>睡着了，最关键的是现在会喝<em class="red">奶粉</em>了，虽然不是特别情愿，但至少没那么抗拒。好的开始，宝贝棒棒哒<img src="http://img.t.sinajs.cn/t3/style/images/common/face/emimage/ee808e.png" width="20px" height="20px">🏻<a href="http://weibo.com/n/%E5%AD%90%E9%AA%9Ebaby_?refer_flag=1001030001_" usercard="name=子骞baby_&amp;refer_flag=1001030001" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_at" target="_blank" class="W_linkb">@子骞<em class="red">baby</em>_</a>
+		</p>
+
+<p class="comment_txt" node-type="feed_list_content" nick-name="R_qiong">
+		今天在传说中最靠谱的 <a href="http://weibo.com/n/%E7%BD%91%E6%98%93%E8%80%83%E6%8B%89%E6%B5%B7%E8%B4%AD?refer_flag=1001030001_" usercard="name=网易考拉海购&amp;refer_flag=1001030001" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_at" target="_blank" class="W_linkb">@网易考拉海购</a> 发现了一件不错的东东：Hero <em class="red">Baby</em> 婴儿<em class="red">奶粉</em> 4段 700克/盒 3盒装 1-2岁 围观猛戳这里: <a title="http://www.kaola.com/product/28428.html" href="http://t.cn/RqrRkFl" target="_blank" mt="url" action-type="feed_list_url" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_url" class="W_linkb">http://t.cn/RqrRkFl</a>
+		</p>
+<p class="comment_txt" node-type="feed_list_content" nick-name="R_qiong">
+		今天在传说中最靠谱的 <a href="http://weibo.com/n/%E7%BD%91%E6%98%93%E8%80%83%E6%8B%89%E6%B5%B7%E8%B4%AD?refer_flag=1001030001_" usercard="name=网易考拉海购&amp;refer_flag=1001030001" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_at" target="_blank" class="W_linkb">@网易考拉海购</a> 发现了一件不错的东东：Hero <em class="red">Baby</em> 婴儿<em class="red">奶粉</em> 4段 700克/盒 3盒装 1-2岁 围观猛戳这里: <a title="http://www.kaola.com/product/28428.html" href="http://t.cn/RqrRkFl" target="_blank" mt="url" action-type="feed_list_url" suda-data="key=tblog_search_weibo&amp;value=weibo_feed_url" class="W_linkb">http://t.cn/RqrRkFl</a>
+		</p>
+
+
+class UserInfoParser(WeiboParser):
+    def parse(self, url=None):
+        if self.bundle.exists is False:
+            return
+        print("1")
+        url = url or self.url
+        br = self.opener.browse_open(url)
+        self.logger.debug('load %s finish' % url)
+        soup = beautiful_soup(br.response().read())
+
+        if not self.check(url, br):
+            return
+
+        weibo_user = self.get_weibo_user()
+        info = weibo_user.info
+        if info is None:
+            weibo_user.info = UserInfo()
+
+        new_style = False
+
+        profile_div = None
+        career_div = None
+        edu_div = None
+        tags_div = None
+        for script in soup.find_all('script'):
+            text = script.text
+            if text.startswith('FM.view'):
+                text = text.strip().replace(';', '').replace('FM.view(', '')[:-1]
+                data = json.loads(text)
+                domid = data['domid']
+                if domid.startswith('Pl_Official_LeftInfo__'):
+                    info_soup = beautiful_soup(data['html'])
+                    info_div = info_soup.find('div', attrs={'class': 'profile_pinfo'})
+                    for block_div in info_div.find_all('div', attrs={'class': 'infoblock'}):
+                        block_title = block_div.find('form').text.strip()
+                        if block_title == u'基本信息':
+                            profile_div = block_div
+                        elif block_title == u'工作信息':
+                            career_div = block_div
+                        elif block_title == u'教育信息':
+                            edu_div = block_div
+                        elif block_title == u'标签信息':
+                            tags_div = block_div
+                elif domid.startswith('Pl_Official_PersonalInfo__'):
+                    new_style = True
+                    info_soup = beautiful_soup(data['html'])
+                    for block_div in info_soup.find_all('div', attrs={'class': 'WB_cardwrap'}):
+                        block_title_div = block_div.find('h4', attrs={'class': 'obj_name'})
+                        if block_title_div is None:
+                            block_title_div = block_div.find('div', attrs={'class': 'obj_name'})\
+                                .find('h2')
+                        if block_title_div is None:
+                            continue
+                        block_title = block_title_div.text.strip()
+                        inner_div = block_div.find('div', attrs={'class': 'WB_innerwrap'})
+                        if block_title == u'基本信息':
+                            profile_div = inner_div
+                        elif block_title == u'工作信息':
+                            career_div = inner_div
+                        elif block_title == u'教育信息':
+                            edu_div = inner_div
+                        elif block_title == u'标签信息':
+                            tags_div = inner_div
+                elif domid == 'Pl_Official_Header__1':
+                    header_soup = beautiful_soup(data['html'])
+                    weibo_user.info.avatar = header_soup.find('div', attrs={'class': 'pf_head_pic'})\
+                                                .find('img')['src']
+                    weibo_user.info.n_follows = int(header_soup.find('ul', attrs={'class': 'user_atten'})\
+                                                    .find('strong', attrs={'node-type': 'follow'}).text)
+                    weibo_user.info.n_fans = int(header_soup.find('ul', attrs={'class': 'user_atten'})\
+                                                 .find('strong', attrs={'node-type': 'fans'}).text)
+                elif domid.startswith('Pl_Core_T8CustomTriColumn__'):
+                    # new style friends info
+                    header_soup = beautiful_soup(data['html'])
+                    tds = header_soup.find('table', attrs={'class': 'tb_counter'})\
+                                                .find_all('td')
+                    weibo_user.info.n_follows = int(tds[0].find('strong').text)
+                    weibo_user.info.n_fans = int(tds[1].find('strong').text)
+                elif domid.startswith('Pl_Official_Headerv6__'):
+                    # new style avatar info
+                    header_soup = beautiful_soup(data['html'])
+                    weibo_user.info.avatar = header_soup.find('p', attrs='photo_wrap')\
+                                                .find('img')['src']
+            elif 'STK' in text:
+                text = text.replace('STK && STK.pageletM && STK.pageletM.view(', '')[:-1]
+                data = json.loads(text)
+                pid = data['pid']
+                if pid == 'pl_profile_infoBase':
+                    profile_div = beautiful_soup(data['html'])
+                elif pid == 'pl_profile_infoCareer':
+                    career_div = beautiful_soup(data['html'])
+                elif pid == 'pl_profile_infoEdu':
+                    edu_div = beautiful_soup(data['html'])
+                elif pid == 'pl_profile_infoTag':
+                    tags_div = beautiful_soup(data['html'])
+                elif pid == 'pl_profile_photo':
+                    soup = beautiful_soup(data['html'])
+                    weibo_user.info.avatar = soup.find('img')['src']
+
+        profile_map = {
+            u'昵称': {'field': 'nickname'},
+            u'所在地': {'field': 'location'},
+            u'性别': {'field': 'sex',
+                    'func': lambda s: True if s == u'男' else False},
+            u'生日': {'field': 'birth'},
+            u'博客': {'field': 'blog'},
+            u'个性域名': {'field': 'site'},
+            u'简介': {'field': 'intro'},
+            u'邮箱': {'field': 'email'},
+            u'QQ': {'field': 'qq'},
+            u'MSN': {'field': 'msn'}
+        }
+        if profile_div is not None:
+            if not new_style:
+                divs = profile_div.find_all(attrs={'class': 'pf_item'})
+            else:
+                divs = profile_div.find_all('li', attrs={'class': 'li_1'})
+            for div in divs:
+                if not new_style:
+                    k = div.find(attrs={'class': 'label'}).text.strip()
+                    v = div.find(attrs={'class': 'con'}).text.strip()
+                else:
+                    k = div.find('span', attrs={'class': 'pt_title'}).text.strip().strip(u'：')
+                    d = div.find('span', attrs={'class': 'pt_detail'})
+                    if d:
+                        v = d.text.strip()
+                    else:
+                        v = div.find('a').text.strip()
+                if k in profile_map:
+                    if k == u'个性域名' and '|' in v:
+                        v = v.split('|')[1].strip()
+                    func = (lambda s: s) \
+                            if 'func' not in profile_map[k] \
+                            else profile_map[k]['func']
+                    v = func(v)
+                    setattr(weibo_user.info, profile_map[k]['field'], v)
+
+        weibo_user.info.work = []
+        if career_div is not None:
+            if not new_style:
+                for div in career_div.find_all(attrs={'class': 'con'}):
+                    work_info = WorkInfo()
+                    ps = div.find_all('p')
+                    for p in ps:
+                        a = p.find('a')
+                        if a is not None:
+                            work_info.name = a.text
+                            text = p.text
+                            if '(' in text:
+                                work_info.date = text.strip().split('(')[1].strip(')')
+                        else:
+                            text = p.text
+                            if text.startswith(u'地区：'):
+                                work_info.location = text.split(u'：', 1)[1]
+                            elif text.startswith(u'职位：'):
+                                work_info.position = text.split(u'：', 1)[1]
+                            else:
+                                work_info.detail = text
+                    weibo_user.info.work.append(work_info)
+            else:
+                li = career_div.find('li', attrs={'class': 'li_1'})
+                for span in li.find_all('span', attrs={'class': 'pt_detail'}):
+                    work_info = WorkInfo()
+
+                    text = span.text
+                    a = span.find('a')
+                    if a is not None:
+                        work_info.name = a.text
+                    if '(' in text:
+                        work_info.date = text.strip().split('(')[1]\
+                                            .replace('\r', '')\
+                                            .replace('\n', '')\
+                                            .replace('\t', '')\
+                                            .split(')', 1)[0]
+
+                    for l in text.split('\r\n'):
+                        l = l.strip()
+                        if len(l) == 0:
+                            continue
+                        if l.startswith(u'地区：'):
+                            work_info.location = l.split(u'：', 1)[1]
+                        elif l.startswith(u'职位：'):
+                            work_info.position = l.split(u'：', 1)[1]
+                        else:
+                            work_info.detail = text.replace('\r', '')\
+                                                    .replace('\n', '')\
+                                                    .replace('\t', '')\
+                                                    .strip()
+
+                    weibo_user.info.work.append(work_info)
+
+        weibo_user.info.edu = []
+        if edu_div is not None:
+            if not new_style:
+                for div in edu_div.find_all(attrs={'class': 'con'}):
+                    edu_info = EduInfo()
+                    ps = div.find_all('p')
+                    for p in ps:
+                        a = p.find('a')
+                        text = p.text
+                        if a is not None:
+                            edu_info.name = a.text
+                            if '(' in text:
+                                edu_info.date = text.strip().split('(')[1].strip().strip(')')
+                        else:
+                            edu_info.detail = text
+                    weibo_user.info.edu.append(edu_info)
+            else:
+                span = edu_div.find('li', attrs={'class': 'li_1'})\
+                                .find('span', attrs={'class': 'pt_detail'})
+                text = span.text
+                names = []
+                for a in span.find_all('a'):
+                    names.append(a.text)
+
+                for idx, name in enumerate(names):
+                    start_pos = text.find(name) + len(name)
+                    if idx < len(names) - 1:
+                        end_pos = text.find(names[idx+1], start_pos)
+                    else:
+                        end_pos = len(text)
+                    t = text[start_pos: end_pos]
+
+                    edu_info = EduInfo()
+                    edu_info.name = name
+                    if '(' in text:
+                        edu_info.date = t.strip().split('(')[1]\
+                                            .replace('\r', '')\
+                                            .replace('\n', '')\
+                                            .replace('\t', '')\
+                                            .split(')', 1)[0]
+                        t = t[t.find(')')+1:]
+                    text = text[end_pos:]
+                    edu_info.detail = t.replace('\r', '').replace('\n', '')\
+                                        .replace('\t', '').strip()
+                    weibo_user.info.edu.append(edu_info)
+
+        weibo_user.info.tags = []
+        if tags_div is not None:
+            if not new_style:
+                for div in tags_div.find_all(attrs={'class': 'con'}):
+                    for a in div.find_all('a'):
+                        weibo_user.info.tags.append(a.text)
+            else:
+                for a in tags_div.find('span', attrs={'class': 'pt_detail'}).find_all('a'):
+                    weibo_user.info.tags.append(a.text.strip())
+
+        weibo_user.save()
+#         self.logger.debug('parse %s finish' % url)
+
+        # counter add one for the profile url
+        self.counter.inc('processed_profile_page', 1)
