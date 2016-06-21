@@ -6,8 +6,7 @@ def weibo_login():
     print '新浪微博模拟登陆:'
     username = raw_input(u'用户名：')
     password = raw_input(u'密码：')
-    # username = "@qq.com"
-    # password = "l770160905"
+   
     return wblogin.login(username, password)
 
 
